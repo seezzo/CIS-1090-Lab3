@@ -3,11 +3,9 @@
 //Define a function named cube that takes one number as a paramter
 //and returns that number cubed (times itself three times):
 
-
-
-//         (use this space)
-
-
+function cube(n){
+    return n * n * n;
+}
 
 
 
